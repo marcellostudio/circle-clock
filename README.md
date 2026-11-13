@@ -6,7 +6,11 @@ Circle Clock is an interactive world clock built to be read at a glance. It open
 
 ![Circle Clock preview](assets/preview.png)
 
-**Live project:** [marcello.design](https://marcello.design) — Manifesto section.
+## Live Demo
+
+Experience Circle Clock on my portfolio, inside the Manifesto section. Select a city, explore different time zones, and watch the dial transition between daylight and night.
+
+[Explore Circle Clock](https://www.marcello.design/manifesto)
 
 ## The idea
 
